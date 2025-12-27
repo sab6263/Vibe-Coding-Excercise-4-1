@@ -149,8 +149,8 @@ const screens = {
             `).join('')}
         </div>
     `,
-    wallet: () => `
-        <div class="screen wallet-screen">
+    impact: () => `
+        <div class="screen impact-screen">
              <header class="header-section">
                 <h1 class="title-large">Eco-Score</h1>
                 <p class="subtitle">Your sustainability impact</p>
